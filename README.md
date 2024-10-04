@@ -1,4 +1,19 @@
-Microsite to create 
+HOW TO RUN:
+1. Terminal a: postgrest postgrest.conf
+
+4. Terminal d:
+
+Verify is running: curl -X POST http://localhost:3000/users
+  Ex. output: [{"user_id":1,"username":"jaane_doe","password_hash":"hashed_password_here","email":"jaane@example.com","created_at":"2024-10-02T13:29:51.280571"}, 
+ {"user_id":2,"username":"mike2","password_hash":"somepassword","email":"mike2@mike.com","created_at":"2024-10-02T14:08:02.475012"}, 
+ {"user_id":3,"username":"jen2","password_hash":"somepassword","email":"jen2@jen.com","created_at":"2024-10-03T11:12:54.046611"}, 
+ {"user_id":4,"username":"asdfasdf","password_hash":"asdfasdf","email":"asdf@g.com","created_at":"2024-10-03T11:41:36.410509"}]%    
+
+ Verify postgREST works:
+ 
+
+
+Microsite to create:
 
 1. SIGN UP/SIGN IN/DASHBOARD PAGE 
 2. ON DASHBOARD PAGE
