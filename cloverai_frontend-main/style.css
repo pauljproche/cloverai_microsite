@@ -1,0 +1,681 @@
+.sign-up-page {
+  position: relative;
+  width: 1728px;
+  height: 1117px;
+  background-image: url(https://c.animaapp.com/o7zbR3n4/img/sign-up-page.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.sign-up-page .header {
+  position: absolute;
+  width: 1328px;
+  height: 76px;
+  top: 42px;
+  left: 0;
+}
+
+.sign-up-page .overlap-group {
+  position: absolute;
+  width: 555px;
+  height: 91px;
+  top: 563px;
+  left: 75px;
+  background-image: url(https://c.animaapp.com/o7zbR3n4/img/rectangle-14.svg);
+  background-size: 100% 100%;
+}
+
+.sign-up-page .text-wrapper {
+  position: absolute;
+  width: 137px;
+  top: 25px;
+  left: 207px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sign-up-page .div {
+  position: absolute;
+  width: 612px;
+  top: 224px;
+  left: 75px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sign-up-page .rectangle {
+  width: 550px;
+  top: 368px;
+  left: 80px;
+  position: absolute;
+  height: 55px;
+  background-color: #d9d9d9;
+  border-radius: var(--shape-corner-small);
+}
+
+.sign-up-page .rectangle-2 {
+  width: 554px;
+  top: 462px;
+  left: 75px;
+  position: absolute;
+  height: 55px;
+  background-color: #d9d9d9;
+  border-radius: var(--shape-corner-small);
+}
+
+.sign-up-page .text-wrapper-2 {
+  position: absolute;
+  width: 51px;
+  top: 334px;
+  left: 80px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sign-up-page .text-wrapper-3 {
+  position: absolute;
+  width: 227px;
+  top: 431px;
+  left: 80px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sign-up-page .already-have-an {
+  position: absolute;
+  width: 411px;
+  top: 674px;
+  left: 80px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sign-up-page .span {
+  color: #000000;
+}
+
+.sign-up-page .text-wrapper-4 {
+  color: #1b4ef9;
+}
+
+/* ======================================================================== */
+
+.send-verification {
+  position: relative;
+  width: 1728px;
+  height: 1117px;
+  background-color: #ffffff;
+  overflow: hidden;
+  background-image: url(./img/send-verification-email-page.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.send-verification .overlap-group {
+  position: absolute;
+  width: 150px;
+  height: 57px;
+  top: 593px;
+  left: 772px;
+}
+
+.send-verification .rectangle {
+  position: absolute;
+  width: 150px;
+  height: 37px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: var(--shape-corner-small);
+}
+
+.send-verification .text-wrapper {
+  position: absolute;
+  width: 139px;
+  top: 5px;
+  left: 5px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.send-verification .didn-t-receive-it {
+  position: absolute;
+  top: 650px;
+  left: 700px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.send-verification .span {
+  color: #000000;
+}
+
+.send-verification .text-wrapper-2 {
+  color: #3033fe;
+}
+
+.send-verification .div {
+  position: absolute;
+  top: 466px;
+  left: 539px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.send-verification .p {
+  position: absolute;
+  top: 546px;
+  left: 663px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.send-verification .header {
+  position: absolute;
+  width: 1325px;
+  height: 76px;
+  top: 48px;
+  left: 0;
+}
+
+.send-verification .screenshot {
+  position: absolute;
+  width: 752px;
+  height: 743px;
+  top: -2087px;
+  left: -147px;
+  object-fit: cover;
+}
+
+/* ======================================================================== */
+
+.make-username-page {
+  position: relative;
+  width: 1728px;
+  height: 1117px;
+  overflow: hidden;
+  background-image: url(https://c.animaapp.com/7qicUJ2d/img/make-username-page.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.make-username-page .header {
+  position: absolute;
+  width: 1325px;
+  height: 76px;
+  top: 48px;
+  left: 0;
+}
+
+.make-username-page .overlap-group {
+  position: absolute;
+  width: 1475px;
+  height: 1040px;
+  top: -2087px;
+  left: -4668px;
+}
+
+.make-username-page .screenshot {
+  position: absolute;
+  width: 752px;
+  height: 743px;
+  top: 0;
+  left: 617px;
+  object-fit: cover;
+}
+
+.make-username-page .img {
+  position: absolute;
+  width: 1475px;
+  height: 872px;
+  top: 168px;
+  left: 0;
+  object-fit: cover;
+}
+
+.make-username-page .text-wrapper {
+  position: absolute;
+  top: 358px;
+  left: 90px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.make-username-page .overlap {
+  position: absolute;
+  width: 260px;
+  height: 55px;
+  top: 424px;
+  left: 91px;
+  background-color: #eeeeee;
+}
+
+.make-username-page .div {
+  position: absolute;
+  top: 15px;
+  left: 49px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #808080;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.make-username-page .div-wrapper {
+  position: absolute;
+  width: 359px;
+  height: 91px;
+  top: 503px;
+  left: 60px;
+  background-image: url(https://c.animaapp.com/7qicUJ2d/img/rectangle-14.svg);
+  background-size: 100% 100%;
+}
+
+.make-username-page .text-wrapper-2 {
+  position: absolute;
+  width: 241px;
+  top: 23px;
+  left: 63px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/* ======================================================================== */
+
+.API-key-page {
+  position: relative;
+  width: 1783px;
+  height: 1117px;
+  background-color: #ffffff;
+  overflow: hidden;
+  background-image: url(https://c.animaapp.com/sOAmejeW/img/api-key-page.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.API-key-page .overlap {
+  position: absolute;
+  width: 1787px;
+  height: 988px;
+  top: 129px;
+  left: -2px;
+}
+
+.API-key-page .rectangle {
+  position: absolute;
+  width: 538px;
+  height: 77px;
+  top: 182px;
+  left: 274px;
+  background-color: #d9d9d9;
+  border-radius: var(--shape-corner-small);
+}
+
+.API-key-page .div {
+  position: absolute;
+  width: 237px;
+  height: 72px;
+  top: 293px;
+  left: 274px;
+  background-color: #2e3234;
+  border-radius: var(--shape-corner-small);
+}
+
+.API-key-page .text-wrapper {
+  position: absolute;
+  top: 38px;
+  left: 255px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.API-key-page .name-secret-key {
+  position: absolute;
+  top: 190px;
+  left: 293px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.API-key-page .null-null-null-null {
+  position: absolute;
+  top: 226px;
+  left: 302px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.API-key-page .text-wrapper-2 {
+  position: absolute;
+  width: 182px;
+  top: 304px;
+  left: 302px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.API-key-page .text-wrapper-3 {
+  position: absolute;
+  top: 107px;
+  left: 267px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.API-key-page .line {
+  position: absolute;
+  width: 519px;
+  height: 1px;
+  top: 220px;
+  left: 282px;
+  object-fit: cover;
+}
+
+.API-key-page .overlap-group-wrapper {
+  position: absolute;
+  width: 1787px;
+  height: 988px;
+  top: 0;
+  left: 0;
+}
+
+.API-key-page .overlap-group {
+  position: relative;
+  width: 1785px;
+  height: 988px;
+}
+
+.API-key-page .frame {
+  position: absolute;
+  width: 239px;
+  height: 988px;
+  top: 0;
+  left: 0;
+  background-color: #2e3134;
+}
+
+.API-key-page .rectangle-2 {
+  position: absolute;
+  width: 1586px;
+  height: 12px;
+  top: 0;
+  left: 199px;
+  background-color: #2e3234;
+}
+
+.API-key-page .rectangle-3 {
+  position: absolute;
+  width: 197px;
+  height: 54px;
+  top: 28px;
+  left: 16px;
+  background-color: #473aff;
+  border-radius: var(--shape-corner-small);
+}
+
+.API-key-page .text-wrapper-4 {
+  position: absolute;
+  top: 43px;
+  left: 33px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.API-key-page .header {
+  position: absolute;
+  width: 1278px;
+  height: 76px;
+  top: 18px;
+  left: 0;
+}
+
+.API-key-page .screenshot {
+  position: absolute;
+  width: 752px;
+  height: 743px;
+  top: -2021px;
+  left: -8051px;
+  object-fit: cover;
+}
+
+/* ======================================================================== */
+
+.user-homepage {
+  width: 1718px;
+  height: 1111px;
+  background-color: #eaeaea;
+  overflow: hidden;
+}
+
+.user-homepage .overlap {
+  position: relative;
+  width: 1728px;
+  height: 1117px;
+}
+
+.user-homepage .overlap-group {
+  position: absolute;
+  width: 191px;
+  height: 61px;
+  top: 536px;
+  left: 874px;
+  background-color: #3a61ff;
+  border-radius: var(--shape-corner-small);
+}
+
+.user-homepage .text-wrapper {
+  position: absolute;
+  width: 106px;
+  top: 15px;
+  left: 43px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.user-homepage .div {
+  position: absolute;
+  width: 1728px;
+  height: 1117px;
+  top: 0;
+  left: 0;
+}
+
+.user-homepage .frame {
+  position: absolute;
+  width: 232px;
+  height: 1057px;
+  top: 60px;
+  left: 0;
+  background-color: #2b3a45;
+  overflow: hidden;
+}
+
+.user-homepage .div-wrapper {
+  position: absolute;
+  width: 188px;
+  height: 54px;
+  top: 28px;
+  left: 23px;
+  background-color: #d9d9d9;
+  border-radius: var(--shape-corner-small);
+}
+
+.user-homepage .text-wrapper-2 {
+  position: absolute;
+  top: 14px;
+  left: 10px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.user-homepage .rectangle {
+  position: absolute;
+  width: 179px;
+  height: 54px;
+  top: -2064px;
+  left: -10379px;
+}
+
+.user-homepage .frame-2 {
+  position: absolute;
+  width: 1654px;
+  height: 5px;
+  top: 60px;
+  left: 74px;
+  background-color: #2b3a45;
+}
+
+.user-homepage .header {
+  position: absolute;
+  width: 1246px;
+  height: 61px;
+  top: 0;
+  left: 0;
+}
+
+.user-homepage .frame-3 {
+  display: inline-flex;
+  align-items: center;
+  gap: 47px;
+  position: absolute;
+  top: 8px;
+  left: 1563px;
+}
+
+.user-homepage .icon-cog {
+  position: relative;
+  width: 32.93px;
+  height: 30px;
+}
+
+.user-homepage .male-user {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+
+.user-homepage .rectangle-2 {
+  position: absolute;
+  width: 1346px;
+  height: 313px;
+  top: 186px;
+  left: 297px;
+  background-color: #ffffff;
+  border-radius: var(--shape-corner-small);
+}
+
+.user-homepage .text-wrapper-3 {
+  position: absolute;
+  width: 137px;
+  top: 121px;
+  left: 901px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.user-homepage .rectangle-3 {
+  position: absolute;
+  width: 1346px;
+  height: 413px;
+  top: 635px;
+  left: 297px;
+  background-color: #ffffff;
+  border-radius: var(--shape-corner-small);
+}
