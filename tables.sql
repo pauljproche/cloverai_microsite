@@ -7,7 +7,7 @@
 
 CREATE TABLE sessions (
     session_id UUID PRIMARY KEY,
-    user_id INTEGER,
+    user_id INTEGER REFERENCES users(user_id),
     created_at TIMESTAMP WITHOUT TIME ZONE,
     expires_at TIMESTAMP WITHOUT TIME ZONE
 );
